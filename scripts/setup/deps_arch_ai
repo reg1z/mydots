@@ -1,0 +1,7 @@
+ollama
+ollama-cuda
+docker
+# open-webui has a docker variant as well
+
+
+DEPS_AI_NVIDIA="cuda ollama-cuda"

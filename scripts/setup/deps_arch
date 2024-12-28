@@ -1,0 +1,57 @@
+#!/bin/bash
+
+### official repos ----------
+
+## included w/ ml4w-hyprland-setup -----
+#term
+kitty
+
+#system
+sddm
+
+#hyprland
+hyprland
+
+#apps
+firefox
+
+## Other -----
+#term
+alacritty
+tmux
+neovim
+vim
+python-pywal
+python-watchdog
+
+#system
+ansible
+piper
+virtualbox
+docker
+
+#apps
+obsidian
+signal-desktop
+discord
+thunderbird
+qbittorrent
+gnome-system-monitor # replacing mission-center for the moment
+
+#not-necessity
+# qutebrowser
+# swww
+# zed
+# libreoffice-fresh
+
+
+### aur repos ----------
+
+## included w/ ml4w-hyprland-setup -----
+oh-my-posh
+
+## Other -----
+brave-bin
+
+
+
