@@ -1,0 +1,21 @@
+[env]
+TERM = "xterm-256color"
+
+[cursor]
+style = { shape = "Underline", blinking = "On" }
+
+[font]
+normal = { family = "Firacode", style = "Regular" }
+
+#[font.offset]
+#x = 0
+#y = 0
+
+[window]
+opacity = 1.0
+decorations = "None"
+dynamic_padding = true
+
+[window.padding]
+x = 0
+y = 0
