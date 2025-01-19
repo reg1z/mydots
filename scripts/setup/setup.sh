@@ -48,7 +48,7 @@ done
 # Optional Packages
 figlet "Optional"
 while true; do
-  read -p "Would you like to install 'optional' packages? (libreoffice and zed)" yn
+  read -p "Would you like to install 'optional' packages? (libreoffice, obs-studio, and swww)" yn
     case $yn in
         [Yy]* )
             echo "Installing optional packages..."
