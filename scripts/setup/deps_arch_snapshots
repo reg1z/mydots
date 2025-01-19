@@ -1,7 +1,0 @@
-#!/bin/bash
-DEPS="timeshift xorg-xhost grub-btrfs inotify-tools"
-DEPS_AUR="timeshift-autosnap"
-
-yay -S --needed $DEPS
-
-

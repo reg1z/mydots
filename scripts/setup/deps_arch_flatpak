@@ -1,5 +1,0 @@
-
-# OTHERS
-# flatpak (flatpak missioncenter + bottles + speechnote + ???)
-
-DEPS_FLATPAK="flatpak"
